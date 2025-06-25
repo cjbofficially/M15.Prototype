@@ -1,0 +1,15 @@
+<sbspresets count="1" formatversion="1.1">
+  <sbspreset pkgurl="pkg://Stained_Glass" label="Default" >
+  <presetinput identifier="$outputsize" uid="762005772" type="8" value="10,10" />
+  <presetinput identifier="glass_metallic" uid="1167995466" type="0" value="0.305" />
+  <presetinput identifier="emissive_strength" uid="1094357559" type="0" value="0.508" />
+  <presetinput identifier="saturation_adjustement" uid="1093424077" type="0" value="0.546" />
+  <presetinput identifier="luminance_adjustement" uid="1093424074" type="0" value="-0.05" />
+  <presetinput identifier="lead_roughness" uid="1167707997" type="0" value="0.8" />
+  <presetinput identifier="noise_type" uid="1110680112" type="4" value="2" />
+  <presetinput identifier="noise_scale" uid="1167964781" type="0" value="0.276" />
+  <presetinput identifier="noise_rotation_random" uid="1110681373" type="0" value="1" />
+  <presetinput identifier="bevel_width" uid="1167704666" type="0" value="0.061" />
+  <presetinput identifier="bevel_color_definition" uid="1113114134" type="0" value="0" />
+ </sbspreset>
+</sbspresets>

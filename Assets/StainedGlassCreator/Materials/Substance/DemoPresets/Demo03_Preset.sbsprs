@@ -1,0 +1,17 @@
+<sbspresets count="1" formatversion="1.1">
+  <sbspreset pkgurl="pkg://Stained_Glass" label="" >
+  <presetinput identifier="$outputsize" uid="762005772" type="8" value="10,10" />
+  <presetinput identifier="glass_metallic" uid="1167995466" type="0" value="0.5" />
+  <presetinput identifier="glass_opacity" uid="1168006625" type="0" value="0.8" />
+  <presetinput identifier="emissive_strength" uid="1094357559" type="0" value="0.8" />
+  <presetinput identifier="lead_roughness" uid="1167707997" type="0" value="0.8" />
+  <presetinput identifier="bevel_width" uid="1167704666" type="0" value="0.109" />
+  <presetinput identifier="bevel_intensity" uid="1167704721" type="0" value="0.15" />
+  <presetinput identifier="bevel_smoothing" uid="1167754910" type="0" value="0" />
+  <presetinput identifier="streak_blur" uid="1120263773" type="0" value="0.25" />
+  <presetinput identifier="streak_scale" uid="1167955722" type="0" value="0.518" />
+  <presetinput identifier="streak_detail" uid="1120321057" type="0" value="0.278" />
+  <presetinput identifier="streak_disorder" uid="1120314279" type="0" value="0.374" />
+  <presetinput identifier="streak_warp_intensity" uid="1120306643" type="0" value="0" />
+ </sbspreset>
+</sbspresets>
